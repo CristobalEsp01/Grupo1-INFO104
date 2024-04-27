@@ -27,3 +27,12 @@ En este proyecto proponemos una página con un minijuego  al estilo “Guess Who
 - T2.2 [Investigar y seleccionar frameworks de css adecuados](https://github.com/troxler/awesome-css-frameworks)
 - [Uso de Git](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
+
+## Autores
+
+- [Cristobal Espinoza](https://github.com/CristobalEsp01)
+- [Bastian Gajardo](https://github.com/CristobalEsp01)
+- [Santiago Jofre](https://github.com/CristobalEsp01)
+- [Maximiliano Araya](https://github.com/CristobalEsp01)
+
+
