@@ -31,8 +31,6 @@ En este proyecto proponemos una página con un minijuego  al estilo “Guess Who
 ## Autores
 
 - [Cristobal Espinoza](https://github.com/CristobalEsp01)
-- [Bastian Gajardo](https://github.com/CristobalEsp01)
-- [Santiago Jofre](https://github.com/CristobalEsp01)
-- [Maximiliano Araya](https://github.com/CristobalEsp01)
-
-
+- [Bastian Gajardo](https://github.com/darkanthem21)
+- [Santiago Jofre](https://github.com/SJofreMontano)
+- [Maximiliano Araya](https://github.com/MaxArayaE)
