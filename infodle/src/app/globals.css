@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.caja{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px 10px 10px 10px;
+    border: solid;
+}
