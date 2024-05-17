@@ -19,7 +19,7 @@ En este proyecto proponemos una página con un minijuego  al estilo “Guess Who
 | Ejemplo| ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
 | Ejemplo| ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Ejemplo| ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-| Ejemplo| ![#486fd4](https://paletadecolores.com.mx/paleta/486fd4/6387df/7f9fea/9ab6f4/b5ceff/) #486fd4 |
+| Ejemplo| ![#486fd4](69,111,212) #486fd4 |
 
 
 ## Tareas importantes
