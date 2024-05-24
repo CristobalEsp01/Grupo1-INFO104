@@ -1,6 +1,4 @@
-{
-    "ramos":[
-        {"id": "INFO063-17" ,
+[   {"id": "INFO063-17" ,
         "name": "INTRODUCCIÓN A LA PROGRAMACIÓN"},
         {"id": "INFO064-20",
         "name": "TALLER DE COMPETENCIAS COMUNICACIONALES Y SOCIALES PARA LA PROFESIÓN"},
@@ -106,5 +104,4 @@
         "name": "PROYECTO DE TÍTULO: ARTÍCULO DE INVESTIGACIÓN (b)"},
         {"id": "INFO299-17",
         "name": "PROYECTO DE TÍTULO: MEMORIA (a)"}
-    ]
-}
+]
