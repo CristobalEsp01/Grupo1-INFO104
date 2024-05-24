@@ -11,7 +11,7 @@
     {
         "nombre" : "Héctor Ferrada",
         "genero": "Másculino",
-        "gradAcademico": "Doctorado",
+        "gradAcademico": "Doctor",
         "carrera": "Analista Computacional",
         "universidad": "U. de Santiago de Chile",
         "egreso": "2005",
@@ -20,7 +20,7 @@
     {
         "nombre" : "Julio Daniel Guerra Hollstein",
         "genero": "Másculino",
-        "gradAcademico": "Doctorado",
+        "gradAcademico": "Doctor",
         "carrera": "Ing. Civil en Informática",
         "universidad": "U. Austral de Chile",
         "egreso": "2004",
@@ -29,7 +29,7 @@
     {
         "nombre" : "Jorge Maturana Ortiz",
         "genero": "Másculino",
-        "gradAcademico": "Doctorado",
+        "gradAcademico": "Doctor",
         "carrera": "Ing. Civil en Informática",
         "universidad": "U. Técnica Federico Santa Maria",
         "egreso": "2000",
@@ -56,7 +56,7 @@
     {
         "nombre" : "Mauricio Ruiz-Tagle Molina",
         "genero": "Másculino",
-        "gradAcademico": "Doctorado",
+        "gradAcademico": "Doctor",
         "carrera": "Ing. Civil en Informática",
         "universidad": "U. Austral de Chile",
         "egreso": "1992",
@@ -83,7 +83,7 @@
     {
         "nombre" : "Eliana Scheihing García",
         "genero": "Femenino",
-        "gradAcademico": "Doctorado",
+        "gradAcademico": "Doctor",
         "carrera": "Ing. Civil Matemático",
         "universidad": "Universidad de Chile",
         "egreso": "1986",
@@ -92,7 +92,7 @@
     {
         "nombre" : "Matthieu Vernier",
         "genero": "Másculino",
-        "gradAcademico": "Doctorado",
+        "gradAcademico": "Doctor",
         "carrera": "Máster en Investigación Ciencias y Tecnologías mención Informática",
         "universidad": "U. de Caen Basse-Normandie",
         "egreso": "2007",
@@ -101,7 +101,7 @@
     {
         "nombre" : "Cristóbal Navarro Guerrero",
         "genero": "Másculino",
-        "gradAcademico": "Doctorado",
+        "gradAcademico": "Doctor",
         "carrera": "Ing. Civil en Informática",
         "universidad": "U. Austral de Chile",
         "egreso": "2010",
@@ -119,7 +119,7 @@
     {
         "nombre" : "Christian Lazo Ramírez",
         "genero": "Másculino",
-        "gradAcademico": "Doctorado",
+        "gradAcademico": "Doctor",
         "carrera": "Ing. Gestion Informática",
         "universidad": "",
         "egreso": "",
@@ -128,7 +128,7 @@
     {
         "nombre" : "Pablo Huijse Heise",
         "genero": "Másculino",
-        "gradAcademico": "Doctorado",
+        "gradAcademico": "Doctor",
         "carrera": "Ing. Civil Electricista",
         "universidad": "Universidad de Chile",
         "egreso": "2009",
