@@ -1,0 +1,146 @@
+[
+    {
+        "nombre" : "Maria Eliana de la Maza Werner",
+        "genero": "Femenino",
+        "gradAcademico": "Magister",
+        "carrera": "Ing. Civil en Informática",
+        "universidad": "U. Austral de Chile",
+        "egreso": "1991",
+        "asignatura": "Estructura de Datos y Algoritmo"
+    },
+    {
+        "nombre" : "Héctor Ferrada",
+        "genero": "Másculino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Analista Computacional",
+        "universidad": "U. de Santiago de Chile",
+        "egreso": "2005",
+        "asignatura": "Diseño y Análisis de Algoritmos"
+    },
+    {
+        "nombre" : "Julio Daniel Guerra Hollstein",
+        "genero": "Másculino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Ing. Civil en Informática",
+        "universidad": "U. Austral de Chile",
+        "egreso": "2004",
+        "asignatura": "Programación orientada a Objetos"
+    },
+    {
+        "nombre" : "Jorge Maturana Ortiz",
+        "genero": "Másculino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Ing. Civil en Informática",
+        "universidad": "U. Técnica Federico Santa Maria",
+        "egreso": "2000",
+        "asignatura": "Bioinformática"
+    },
+    {
+        "nombre" : "Marianna Villariel Manfredi",
+        "genero": "Femenino",
+        "gradAcademico": "Magister",
+        "carrera": "Ing. Civil en Informática",
+        "universidad": "U. Austral de Chile",
+        "egreso": "2000",
+        "asignatura": "Introducción a la Programación"
+    },
+    {
+        "nombre" : "Jorge Morales Vilugron",
+        "genero": "Másculino",
+        "gradAcademico": "Magister",
+        "carrera": "Ing. Electrónico",
+        "universidad": "U. de Santiago",
+        "egreso": "1983",
+        "asignatura": "Taller de Integración de TICS"
+    },
+    {
+        "nombre" : "Mauricio Ruiz-Tagle Molina",
+        "genero": "Másculino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Ing. Civil en Informática",
+        "universidad": "U. Austral de Chile",
+        "egreso": "1992",
+        "asignatura": "Programación"
+    },
+    {
+        "nombre" : "Luis Alberto Álvares Gonzáles",
+        "genero": "Másculino",
+        "gradAcademico": "Magister",
+        "carrera": "Ing. Civil Electricista",
+        "universidad": "U. Técnica del Estado de Santiago",
+        "egreso": "1981",
+        "asignatura": "Taller de Tecnologías de Aprendizaje"
+    },
+    {
+        "nombre" : "Tania Letelier Santibañez",
+        "genero": "Femenino",
+        "gradAcademico": "Diplomado",
+        "carrera": "Ing. Civil en Informática",
+        "universidad": "U. Austral de Chile",
+        "egreso": "2000",
+        "asignatura": "Investigación Operativa"
+    },
+    {
+        "nombre" : "Eliana Scheihing García",
+        "genero": "Femenino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Ing. Civil Matemático",
+        "universidad": "Universidad de Chile",
+        "egreso": "1986",
+        "asignatura": "Inteligencia Artificial"
+    },
+    {
+        "nombre" : "Matthieu Vernier",
+        "genero": "Másculino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Máster en Investigación Ciencias y Tecnologías mención Informática",
+        "universidad": "U. de Caen Basse-Normandie",
+        "egreso": "2007",
+        "asignatura": "Base de Datos"
+    },
+    {
+        "nombre" : "Cristóbal Navarro Guerrero",
+        "genero": "Másculino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Ing. Civil en Informática",
+        "universidad": "U. Austral de Chile",
+        "egreso": "2010",
+        "asignatura": "Arquitectura de Computadores"
+    },
+    {
+        "nombre" : "Cristian Olivares-Rodríguez",
+        "genero": "Másculino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Ing. Civil Informático",
+        "universidad": "U. Católica de la Santísima Concepción",
+        "egreso": "2006",
+        "asignatura": "Administración de TIC"
+    },
+    {
+        "nombre" : "Christian Lazo Ramírez",
+        "genero": "Másculino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Ing. Gestion Informática",
+        "universidad": "",
+        "egreso": "",
+        "asignatura": "Redes"
+    },
+    {
+        "nombre" : "Pablo Huijse Heise",
+        "genero": "Másculino",
+        "gradAcademico": "Doctorado",
+        "carrera": "Ing. Civil Electricista",
+        "universidad": "Universidad de Chile",
+        "egreso": "2009",
+        "asignatura": "Computación Científica con Python"
+    },
+    {
+        "nombre" : "Juan Pablo Salazar Fernández",
+        "genero": "Másculino",
+        "gradAcademico": "Magister",
+        "carrera": "Ing. Civil en Informática",
+        "universidad": "U. Austral de Chile",
+        "egreso": "",
+        "asignatura": "Sistemas de Gestion"
+    }
+]
