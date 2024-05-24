@@ -21,7 +21,7 @@ export default function Home() {
               class="bg-pink-500
                          hover:bg-pink-600
                          text-gray-800 font-bold 
-                           py-2 px-4 rounded-full 
+                           py-2 px-4 rounded-full
                            next-button
                            "
               onClick={handleCloseModal}
