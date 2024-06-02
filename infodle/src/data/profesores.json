@@ -1,146 +1,196 @@
 [
   {
-    "nombre": "Maria Eliana de la Maza Werner",
-    "genero": "Femenino",
-    "gradAcademico": "Magister",
-    "carrera": "Ing. Civil en Informática",
-    "universidad": "U. Austral de Chile",
-    "egreso": "1991",
-    "asignatura": "Estructura de Datos y Algoritmo"
+      "nombre": "Maria Eliana de la Maza Werner",
+      "genero": "Femenino",
+      "gradAcademico": "Magister",
+      "carrera": "Ing. Civil en Informática",
+      "universidad": "U. Austral de Chile",
+      "egreso": "1991",
+      "asignaturas": [
+          "INFO085-17",
+          "INFO099-17",
+          "INFO139-17"
+      ]
   },
   {
-    "nombre": "Héctor Ferrada",
-    "genero": "Másculino",
-    "gradAcademico": "Doctor",
-    "carrera": "Analista Computacional",
-    "universidad": "U. de Santiago de Chile",
-    "egreso": "2005",
-    "asignatura": "Diseño y Análisis de Algoritmos"
+      "nombre": "Héctor Ferrada",
+      "genero": "Másculino",
+      "gradAcademico": "Doctor",
+      "carrera": "Analista Computacional",
+      "universidad": "U. de Santiago de Chile",
+      "egreso": "2005",
+      "asignaturas": [
+          "INFO088-17",
+          "INFO145-17"
+      ]
   },
   {
-    "nombre": "Julio Daniel Guerra Hollstein",
-    "genero": "Másculino",
-    "gradAcademico": "Doctor",
-    "carrera": "Ing. Civil en Informática",
-    "universidad": "U. Austral de Chile",
-    "egreso": "2004",
-    "asignatura": "Programación orientada a Objetos"
+      "nombre": "Julio Daniel Guerra Hollstein",
+      "genero": "Másculino",
+      "gradAcademico": "Doctor",
+      "carrera": "Ing. Civil en Informática",
+      "universidad": "U. Austral de Chile",
+      "egreso": "2004",
+      "asignaturas": [
+          "INFO090-17",
+          "INFO104-17"
+      ]
   },
   {
-    "nombre": "Jorge Maturana Ortiz",
-    "genero": "Másculino",
-    "gradAcademico": "Doctor",
-    "carrera": "Ing. Civil en Informática",
-    "universidad": "U. Técnica Federico Santa Maria",
-    "egreso": "2000",
-    "asignatura": "Bioinformática"
+      "nombre": "Jorge Maturana Ortiz",
+      "genero": "Másculino",
+      "gradAcademico": "Doctor",
+      "carrera": "Ing. Civil en Informática",
+      "universidad": "U. Técnica Federico Santa Maria",
+      "egreso": "2000",
+      "asignaturas": [
+          "INFO081-17",
+          "INFO241-22",
+          "INFO245-17"
+      ]
   },
   {
-    "nombre": "Marianna Villariel Manfredi",
-    "genero": "Femenino",
-    "gradAcademico": "Magister",
-    "carrera": "Ing. Civil en Informática",
-    "universidad": "U. Austral de Chile",
-    "egreso": "2000",
-    "asignatura": "Introducción a la Programación"
+      "nombre": "Marianna Villariel Manfredi",
+      "genero": "Femenino",
+      "gradAcademico": "Magister",
+      "carrera": "Ing. Civil en Informática",
+      "universidad": "U. Austral de Chile",
+      "egreso": "2000",
+      "asignaturas": [
+          "INFO063-17",
+          "INFO073-17"
+      ]
   },
   {
-    "nombre": "Jorge Morales Vilugron",
-    "genero": "Másculino",
-    "gradAcademico": "Magister",
-    "carrera": "Ing. Electrónico",
-    "universidad": "U. de Santiago",
-    "egreso": "1983",
-    "asignatura": "Taller de Integración de TICS"
+      "nombre": "Jorge Morales Vilugron",
+      "genero": "Másculino",
+      "gradAcademico": "Magister",
+      "carrera": "Ing. Electrónico",
+      "universidad": "U. de Santiago",
+      "egreso": "1983",
+      "asignaturas": [
+          "INFO289-17"
+      ]
   },
   {
-    "nombre": "Mauricio Ruiz-Tagle Molina",
-    "genero": "Másculino",
-    "gradAcademico": "Doctor",
-    "carrera": "Ing. Civil en Informática",
-    "universidad": "U. Austral de Chile",
-    "egreso": "1992",
-    "asignatura": "Programación"
+      "nombre": "Mauricio Ruiz-Tagle Molina",
+      "genero": "Másculino",
+      "gradAcademico": "Doctor",
+      "carrera": "Ing. Civil en Informática",
+      "universidad": "U. Austral de Chile",
+      "egreso": "1992",
+      "asignaturas": [
+          "INFO088-17",
+          "INFO146-18"
+      ]
   },
   {
-    "nombre": "Luis Alberto Álvares Gonzáles",
-    "genero": "Másculino",
-    "gradAcademico": "Magister",
-    "carrera": "Ing. Civil Electricista",
-    "universidad": "U. Técnica del Estado de Santiago",
-    "egreso": "1981",
-    "asignatura": "Taller de Tecnologías de Aprendizaje"
+      "nombre": "Luis Alberto Álvares Gonzáles",
+      "genero": "Másculino",
+      "gradAcademico": "Magister",
+      "carrera": "Ing. Civil Electricista",
+      "universidad": "U. Técnica del Estado de Santiago",
+      "egreso": "1981",
+      "asignaturas": [
+          "INFO147-19",
+          "INFO288-17"
+      ]
   },
   {
-    "nombre": "Tania Letelier Santibañez",
-    "genero": "Femenino",
-    "gradAcademico": "Diplomado",
-    "carrera": "Ing. Civil en Informática",
-    "universidad": "U. Austral de Chile",
-    "egreso": "2000",
-    "asignatura": "Investigación Operativa"
+      "nombre": "Tania Letelier Santibañez",
+      "genero": "Femenino",
+      "gradAcademico": "Diplomado",
+      "carrera": "Ing. Civil en Informática",
+      "universidad": "U. Austral de Chile",
+      "egreso": "2000",
+      "asignaturas": [
+          "INFO073-17",
+          "INFO221-20",
+          "INFO295-17"
+      ]
   },
   {
-    "nombre": "Eliana Scheihing García",
-    "genero": "Femenino",
-    "gradAcademico": "Doctor",
-    "carrera": "Ing. Civil Matemático",
-    "universidad": "Universidad de Chile",
-    "egreso": "1986",
-    "asignatura": "Inteligencia Artificial"
+      "nombre": "Eliana Scheihing García",
+      "genero": "Femenino",
+      "gradAcademico": "Doctor",
+      "carrera": "Ing. Civil Matemático",
+      "universidad": "Universidad de Chile",
+      "egreso": "1986",
+      "asignaturas": [
+          "INFO236-15",
+          "INFO297-17",
+          "INFO298-17",
+          "INFO299-17"
+      ]
   },
   {
-    "nombre": "Matthieu Vernier",
-    "genero": "Másculino",
-    "gradAcademico": "Doctor",
-    "carrera": "Máster en Investigación Ciencias y Tecnologías mención Informática",
-    "universidad": "U. de Caen Basse-Normandie",
-    "egreso": "2007",
-    "asignatura": "Base de Datos"
+      "nombre": "Matthieu Vernier",
+      "genero": "Másculino",
+      "gradAcademico": "Doctor",
+      "carrera": "Máster en Investigación Ciencias y Tecnologías mención Informática",
+      "universidad": "U. de Caen Basse-Normandie",
+      "egreso": "2007",
+      "asignaturas": [
+          "INFO133-17",
+          "INFO257-17",
+          "INFO283-21"
+      ]
   },
   {
-    "nombre": "Cristóbal Navarro Guerrero",
-    "genero": "Másculino",
-    "gradAcademico": "Doctor",
-    "carrera": "Ing. Civil en Informática",
-    "universidad": "U. Austral de Chile",
-    "egreso": "2010",
-    "asignatura": "Arquitectura de Computadores"
+      "nombre": "Cristóbal Navarro Guerrero",
+      "genero": "Másculino",
+      "gradAcademico": "Doctor",
+      "carrera": "Ing. Civil en Informática",
+      "universidad": "U. Austral de Chile",
+      "egreso": "2010",
+      "asignaturas": [
+          "INFO128-17",
+          "INFO242-22"
+      ]
   },
   {
-    "nombre": "Cristian Olivares-Rodríguez",
-    "genero": "Másculino",
-    "gradAcademico": "Doctorado",
-    "carrera": "Ing. Civil Informático",
-    "universidad": "U. Católica de la Santísima Concepción",
-    "egreso": "2006",
-    "asignatura": "Administración de TIC"
+      "nombre": "Cristian Olivares-Rodríguez",
+      "genero": "Másculino",
+      "gradAcademico": "Doctorado",
+      "carrera": "Ing. Civil Informático",
+      "universidad": "U. Católica de la Santísima Concepción",
+      "egreso": "2006",
+      "asignaturas": [
+      ]
   },
   {
-    "nombre": "Christian Lazo Ramírez",
-    "genero": "Másculino",
-    "gradAcademico": "Doctor",
-    "carrera": "Ing. Gestion Informática",
-    "universidad": "",
-    "egreso": "",
-    "asignatura": "Redes"
+      "nombre": "Christian Lazo Ramírez",
+      "genero": "Másculino",
+      "gradAcademico": "Doctor",
+      "carrera": "Ing. Gestion Informática",
+      "universidad": "",
+      "egreso": "",
+      "asignaturas": [
+          "INFO239-17"
+      ]
   },
   {
-    "nombre": "Pablo Huijse Heise",
-    "genero": "Másculino",
-    "gradAcademico": "Doctor",
-    "carrera": "Ing. Civil Electricista",
-    "universidad": "Universidad de Chile",
-    "egreso": "2009",
-    "asignatura": "Computación Científica con Python"
+      "nombre": "Pablo Huijse Heise",
+      "genero": "Másculino",
+      "gradAcademico": "Doctor",
+      "carrera": "Ing. Civil Electricista",
+      "universidad": "Universidad de Chile",
+      "egreso": "2009",
+      "asignaturas": [
+          "INFO285-21"
+      ]
   },
   {
-    "nombre": "Juan Pablo Salazar Fernández",
-    "genero": "Másculino",
-    "gradAcademico": "Magister",
-    "carrera": "Ing. Civil en Informática",
-    "universidad": "U. Austral de Chile",
-    "egreso": "",
-    "asignatura": "Sistemas de Gestion"
+      "nombre": "Juan Pablo Salazar Fernández",
+      "genero": "Másculino",
+      "gradAcademico": "Magister",
+      "carrera": "Ing. Civil en Informática",
+      "universidad": "U. Austral de Chile",
+      "egreso": "",
+      "asignaturas": [
+          "INFO209-23",
+          "INFO276-08",
+          "INFO286-17"
+      ]
   }
 ]
