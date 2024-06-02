@@ -16,7 +16,6 @@ const ProfesorCard = ({ profesor, profesorDelDia }) => {
 
   return (
     <div className="flex justify-center items-center space-x-4 p-4 rounded-lg shadow-md">
-      <div className={cardStyle('nombre')}>{profesor.nombre}</div>
       <div className={cardStyle('genero')}>{profesor.genero}</div>
       <div className={cardStyle('gradAcademico')}>{profesor.gradAcademico}</div>
       <div className={cardStyle('carrera')}>{profesor.carrera}</div>
