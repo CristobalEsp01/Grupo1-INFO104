@@ -111,7 +111,6 @@ export default function Home() {
             Volver a Instrucciones
           </button>
           <div className="mt-10 text-center">
-            <h2 className="text-xl font-bold mb-4">Adivinanzas</h2>
             <div className="flex justify-center space-x-4 mb-4">
               <div className="bg-gray-200 p-2 rounded-md w-32 h-20 flex justify-center items-center">Nombre</div>
               <div className="bg-gray-200 p-2 rounded-md w-32 h-20 flex justify-center items-center">Género</div>
