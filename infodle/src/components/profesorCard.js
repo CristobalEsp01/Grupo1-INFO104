@@ -1,5 +1,5 @@
 import React from 'react';
-import AtributosCard from './atributosCard';
+import AtributosElemento from './atributosElemento';
 import ImagenProfesor from './imagenProfesor';
 
 const ProfesorCard = ({ profesor, profesorDelDia }) => {
@@ -17,12 +17,12 @@ const ProfesorCard = ({ profesor, profesorDelDia }) => {
   return (
     <div className="flex justify-center items-center space-x-4 p-0.5 rounded-lg">
       <ImagenProfesor src={profesor.foto} alt={`${profesor.nombre} foto`} />
-      <AtributosCard atributo="genero" valor={profesor.genero} color={getColor('genero')} />
-      <AtributosCard atributo="gradAcademico" valor={profesor.gradAcademico} color={getColor('gradAcademico')} />
-      <AtributosCard atributo="carrera" valor={profesor.carrera} color={getColor('carrera')} />
-      <AtributosCard atributo="universidad" valor={profesor.universidad} color={getColor('universidad')} />
-      <AtributosCard atributo="egreso" valor={profesor.egreso} color={getColor('egreso')} />
-      <AtributosCard atributo="asignaturas" valor={profesor.asignaturas.join(', ')} color={getColor('asignaturas')} />
+      <AtributosElemento atributo="genero" valor={profesor.genero} color={getColor('genero')} />
+      <AtributosElemento atributo="gradAcademico" valor={profesor.gradAcademico} color={getColor('gradAcademico')} />
+      <AtributosElemento atributo="carrera" valor={profesor.carrera} color={getColor('carrera')} />
+      <AtributosElemento atributo="universidad" valor={profesor.universidad} color={getColor('universidad')} />
+      <AtributosElemento atributo="egreso" valor={profesor.egreso} color={getColor('egreso')} />
+      <AtributosElemento atributo="asignaturas" valor={profesor.asignaturas.join(', ')} color={getColor('asignaturas')} />
     </div>
   );
 };
