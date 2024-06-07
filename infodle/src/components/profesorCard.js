@@ -12,11 +12,11 @@ const ProfesorCard = ({ profesor, profesorDelDia }) => {
     }
   };
 
-  const cardStyle = (atributo) => `flex justify-center items-center ${getColor(atributo)} text-white font-bold text-lg h-20 w-32 m-1 rounded-md text-center`;
+  const cardStyle = (atributo) => `flex justify-center items-center ${getColor(atributo)} text-white font-bold text-lg h-20 w-32 m-2 rounded-md text-center 4`;
 
   return (
-    <div className="flex justify-center items-center space-x-4 p-4 rounded-lg shadow-md">
-      <img src={profesor.foto} alt={`${profesor.nombre} foto`} className="w-20 h-20 rounded-full object-cover" />
+    <div className="flex justify-center items-center space-x-4 p-0.5 rounded-lg">
+      <img src={profesor.foto} alt={`${profesor.nombre} foto`} className="w-24 h-24.1 rounded-full object-cover m-4" />      
       <div className={cardStyle('genero')}>{profesor.genero}</div>
       <div className={cardStyle('gradAcademico')}>{profesor.gradAcademico}</div>
       <div className={cardStyle('carrera')}>{profesor.carrera}</div>

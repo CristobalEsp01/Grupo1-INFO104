@@ -112,6 +112,7 @@ export default function Home() {
           </button>
           <div className="mt-10 text-center">
             <div className="flex justify-center space-x-4 mb-4">
+              <div className="bg-gray-200 p-2 rounded-md w-32 h-20 flex justify-center items-center">Profesor</div>
               <div className="bg-gray-200 p-2 rounded-md w-32 h-20 flex justify-center items-center">Género</div>
               <div className="bg-gray-200 p-2 rounded-md w-32 h-20 flex justify-center items-center">Grado Académico</div>
               <div className="bg-gray-200 p-2 rounded-md w-32 h-20 flex justify-center items-center">Carrera</div>
