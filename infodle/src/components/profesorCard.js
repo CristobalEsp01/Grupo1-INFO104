@@ -16,6 +16,7 @@ const ProfesorCard = ({ profesor, profesorDelDia }) => {
 
   return (
     <div className="flex justify-center items-center space-x-4 p-4 rounded-lg shadow-md">
+      <img src={profesor.foto} alt={`${profesor.nombre} foto`} className="w-20 h-20 rounded-full object-cover" />
       <div className={cardStyle('genero')}>{profesor.genero}</div>
       <div className={cardStyle('gradAcademico')}>{profesor.gradAcademico}</div>
       <div className={cardStyle('carrera')}>{profesor.carrera}</div>
