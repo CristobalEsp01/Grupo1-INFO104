@@ -1,4 +1,3 @@
-// src/components/AttributeCard.js
 import React from 'react';
 
 const ElementoAtributos = ({valor, color }) => (
