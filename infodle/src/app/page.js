@@ -66,6 +66,9 @@ export default function Home() {
       <ModalInstrucciones showModal={showModal} handleCloseModal={handleCloseModal} />
       {!showModal && (
         <div className="p-6">
+          <div className="w-full flex justify-center">
+          <h1 className="bg-red-400 text-white w-96 h-12 rounded-lg flex items-center justify-center text-2xl mb-2 shadow-lg">Infodle</h1>
+        </div>
           <BarraBusqueda
             nombreIngresado={nombreIngresado}
             handleInputChange={handleInputChange}
