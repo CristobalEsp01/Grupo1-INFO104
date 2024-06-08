@@ -54,7 +54,8 @@ export default function Home() {
   const handleSuggestionClick = (suggestion) => {
     setNombreIngresado(suggestion);
     setSugerencias([]);
-    setAdivinanzas(prevAdivinanzas => [...prevAdivinanzas, profesores.find(prof => prof.nombre === suggestion)]);
+    setAdivinanzas(prevAdivinanzas => [profesores.find(prof => prof.nombre === suggestion), ...prevAdivinanzas]);
+    console.log("Profesor ingresado: ", suggestion);
   };
 
   const handleOpenModal = () => setShowModal(true);
