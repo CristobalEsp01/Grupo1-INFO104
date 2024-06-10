@@ -1,7 +1,7 @@
 import React from 'react';
 
 const BarraBusqueda = ({ nombreIngresado, handleInputChange, sugerencias, handleSuggestionClick }) => (
-  <div className="relative mt-10 flex justify-center">
+  <div className="relative mt-10 flex justify-center z-10">
     <input
       type="text"
       placeholder="Ingresa el nombre del profesor"

@@ -5,6 +5,7 @@ import ModalInstrucciones from "/src/components/modalInstrucciones.js";
 import BarraBusqueda from "/src/components/barraBusqueda.js";
 import ProfesorGrid from "/src/components/profesorGrid.js";
 import BotonVolver from "/src/components/botonVolver.js";
+import TituloInfodle from "/src/components/TituloInfodle.js";
 
 export default function Home() {
   const [showModal, setShowModal] = useState(true);
@@ -61,24 +62,24 @@ export default function Home() {
   const handleOpenModal = () => setShowModal(true);
   const handleCloseModal = () => setShowModal(false);
 
+  
+
   return (
     <>
-      <ModalInstrucciones showModal={showModal} handleCloseModal={handleCloseModal} />
-      {!showModal && (
-        <div className="p-6">
-          <div className="w-full flex justify-center">
-          <h1 className="bg-red-400 text-white w-96 h-12 rounded-lg flex items-center justify-center text-2xl mb-2 shadow-lg">Infodle</h1>
-        </div>
-          <BarraBusqueda
-            nombreIngresado={nombreIngresado}
-            handleInputChange={handleInputChange}
-            sugerencias={sugerencias}
-            handleSuggestionClick={handleSuggestionClick}
-          />
-          <BotonVolver handleClick={handleOpenModal} text="Volver a Instrucciones" />
-          <ProfesorGrid adivinanzas={adivinanzas} profesorDelDia={profesorDelDia} />
-        </div>
-      )}
+    <div className={`fixed inset-0 ${showModal ? 'bg-gray-900 bg-opacity-10 backdrop-blur-sm' : ''} z-10`}>
+        <ModalInstrucciones showModal={showModal} handleCloseModal={handleCloseModal} />
+    </div>
+      <div className={`p-6 ${showModal ? 'opacity-50' : ''}`}>
+        <TituloInfodle/>
+        <BarraBusqueda
+          nombreIngresado={nombreIngresado}
+          handleInputChange={handleInputChange}
+          sugerencias={sugerencias}
+          handleSuggestionClick={handleSuggestionClick}
+        />
+        <BotonVolver handleClick={handleOpenModal} text="Volver a Instrucciones" />
+        <ProfesorGrid adivinanzas={adivinanzas} profesorDelDia={profesorDelDia} />
+      </div>
     </>
   );
 }
