@@ -8,14 +8,21 @@ const ProfesorCard = ({ profesor, profesorDelDia }) => {
       return 'bg-green-500';
     } else if (atributo === 'asignaturas') {
       const coincidencias = profesor[atributo].filter(asignatura => profesorDelDia[atributo].includes(asignatura));
-      return coincidencias.length > 0 ? 'bg-orange-500' : 'bg-red-500';
+      const igualdadArreglos = profesor[atributo].length === profesorDelDia[atributo].length && profesor[atributo].every(asignatura => profesorDelDia[atributo].includes(asignatura));
+       if(igualdadArreglos) {
+          return 'bg-green-500';
+        } else if (coincidencias.length > 0) {
+          return 'bg-orange-500';
+        } else {
+          return 'bg-red-500';
+        }
     } else {
       return 'bg-red-500';
     }
   };
 
   return (
-    <div className="flex justify-center items-center space-x-4 p-0.5 rounded-lg">
+    <div className="flex justify-center items-center space-x-4 p-0.5 rounded-lg ">
       <ImagenProfesor src={profesor.foto} alt={`${profesor.nombre} foto`} />
       <AtributosElemento atributo="genero" valor={profesor.genero} color={getColor('genero')} />
       <AtributosElemento atributo="gradAcademico" valor={profesor.gradAcademico} color={getColor('gradAcademico')} />
