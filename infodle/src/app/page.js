@@ -5,7 +5,8 @@ import ModalInstrucciones from "/src/components/modalInstrucciones.js";
 import BarraBusqueda from "/src/components/barraBusqueda.js";
 import ProfesorGrid from "/src/components/profesorGrid.js";
 import BotonVolver from "/src/components/botonVolver.js";
-import TituloInfodle from "/src/components/TituloInfodle.js";
+import TituloInfodle from "/src/components/tituloInfodle.js";
+import CuadroPistas from "/src/components/cuadroPistas.js";
 
 export default function Home() {
   const [showModal, setShowModal] = useState(true);
@@ -101,7 +102,9 @@ export default function Home() {
         />
         <BotonVolver handleClick={handleOpenModal} text="Volver a Instrucciones" />
         <ProfesorGrid adivinanzas={adivinanzas} profesorDelDia={profesorDelDia} />
+        <CuadroPistas/>
       </div>
+      
     </>
   );
 }

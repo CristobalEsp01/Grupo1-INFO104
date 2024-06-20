@@ -10,16 +10,20 @@ const ModalInstrucciones = ({ showModal, handleCloseModal }) => (
         <div className="flex flex-col items-center mb-6 text-sm">
           <ul>
             <div className="flex items-center mb-2">
-              <div className="w-8 h-8 bg-green-500 mr-2 border-2 border-slate-600 border-solid"></div>
+              <div className="w-8 h-8 bg-green-500 mr-2 border-2 border-slate-800 border-solid"></div>
               Significa que el profesor misterioso comparte esta casilla con el profesor que seleccionaste, ¡sigue así!
             </div>
             <div className="flex items-center mb-2">
-              <div className="w-8 h-8 bg-orange-500 mr-2 border-2 border-slate-600 border-solid"></div>
+              <div className="w-8 h-8 bg-orange-500 mr-2 border-2 border-slate-800 border-solid"></div>
               El profesor misterioso comparte alguna de las opciones que están aquí dentro
             </div>
             <div className="flex items-center mb-2">
-              <div className="w-8 h-8 bg-red-500 mr-2 border-2 border-slate-600 border-solid"></div>
+              <div className="w-8 h-8 bg-red-500 mr-2 border-2 border-slate-800 border-solid"></div>
               El profesor misterioso NO comparte esta casilla con el profesor que seleccionaste, probemos con otro
+            </div>
+            <div className="flex items-center mb-2">
+              <div className="w-8 h-8 bg-slate-900 mr-2 border-2 border-slate-800 border-solid"></div>
+              Tendras 3 intentos para poder activar alguna pista del profesor misterioso
             </div>
           </ul>
         </div>
