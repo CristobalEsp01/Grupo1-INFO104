@@ -1,8 +1,6 @@
-import React, {useState} from 'react';
+import React from 'react';
 
-const BarraBusqueda = ({ nombreIngresado, handleInputChange, sugerencias, handleSuggestionClick }) => (
- 
- 
+const BarraBusqueda = ({ nombreIngresado, handleInputChange, sugerencias, handleSuggestionClick}) => (
   <div className="relative mt-10 flex justify-center z-10">
     <input
       type="text"
