@@ -235,6 +235,44 @@
         "BAIN065-14"
     ],
     "foto": "https://ingenieria.uach.cl/wp-content/uploads/2023/06/Esteban-Aguilera.jpeg"
-  }
+  },
+  {
+    "nombre": "Sergio Argomedo Cornejo",
+    "genero": "Másculino",
+    "gradAcademico": "Diplomado",
+    "carrera": "Licenciado en Matemáticas",
+    "universidad": "Pontificia Universidad Catolica de Valparaiso",
+    "egreso": "2010",
+    "asignaturas": [
+        "BAIN067-14"
+    ],
+    "foto": "https://ingenieria.uach.cl/wp-content/uploads/2023/06/SERGIO_ARGOMEDO.jpeg"
+  },
+  {
+    "nombre": "Javier Arriaza Lopez",
+    "genero": "Másculino",
+    "gradAcademico": "Magister",
+    "carrera": "Licenciado en Matemáticas",
+    "universidad": "Pontificia Universidad Catolica de Chile",
+    "egreso": "2006",
+    "asignaturas": [
+        "BAIN083-24"
+    ],
+    "foto": "https://ingenieria.uach.cl/wp-content/uploads/2023/06/JAVIER_ARRIAZA.jpeg"
+  },
+  {
+    "nombre": "Raul Cisternas Gutierrez",
+    "genero": "Másculino",
+    "gradAcademico": "Licenciado",
+    "carrera": "Ing. Civil Matemático",
+    "universidad": "Universidad de Concepcion",
+    "egreso": "2016",
+    "asignaturas": [
+        "BAIN083-24",
+        "BAIN081-24",
+        "BAIN073-14"
+    ],
+    "foto": "https://ingenieria.uach.cl/wp-content/uploads/2023/06/Raul-cisternas.jpeg"
+  },
   
 ]
