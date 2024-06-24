@@ -210,5 +210,29 @@
   {
     "id": "INFO299-17",
     "name": "PROYECTO DE TÍTULO: MEMORIA (a)"
+  },
+  {
+    "id": "BAIN067-14",
+    "name": "GEOMETRIA PARA INGENIERIA"
+  },
+  {
+    "id": "BAIN065-14",
+    "name": "ALGEBRA PARA INGENIERIA"
+  },
+  {
+    "id": "BAIN075-24",
+    "name": "CALCULO EN UNA VARIABLE"
+  },
+  {
+    "id": "BAIN073-14",
+    "name": "ALGEBRA LINEAL PARA INGENIERIA"
+  },
+  {
+    "id": "BAIN081-24",
+    "name": "ECUACIONES DIFERENCIALES PARA INGENIERIA"
+  },
+  {
+    "id": "BAIN083-24",
+    "name": "CALCULO EN VARIAS VARIABLES"
   }
 ]
