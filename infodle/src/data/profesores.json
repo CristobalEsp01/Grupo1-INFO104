@@ -176,7 +176,7 @@
       "genero": "Másculino",
       "gradAcademico": "Doctor",
       "carrera": "Ing. Gestion Informática",
-      "universidad": "",
+      "universidad": "Universidad de Vigo",
       "egreso": "",
       "asignaturas": [
           "INFO239-17"
@@ -201,7 +201,7 @@
       "gradAcademico": "Magister",
       "carrera": "Ing. Civil en Informática",
       "universidad": "U. Austral de Chile",
-      "egreso": "",
+      "egreso": "1993",
       "asignaturas": [
           "INFO209-23",
           "INFO276-08",
@@ -222,6 +222,19 @@
         "INFO088-17"
     ],
     "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/http://informatica.uach.cl/wp-content/uploads/2020/05/AS_140507_2990-160x160-1.jpg"
+  },
+    {
+    "nombre": "Esteban Aguilera Romero",
+    "genero": "Másculino",
+    "gradAcademico": "Magister",
+    "carrera": "Magister en Matematica",
+    "universidad": "Pontificia Universidad Catolica de Valparaiso",
+    "egreso": "1976",
+    "asignaturas": [
+        "BAIN075-24",
+        "BAIN065-14"
+    ],
+    "foto": "https://ingenieria.uach.cl/wp-content/uploads/2023/06/Esteban-Aguilera.jpeg"
   }
   
 ]
