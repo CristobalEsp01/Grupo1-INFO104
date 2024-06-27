@@ -10,15 +10,15 @@ const ModalInstrucciones = ({ showModal, handleCloseModal }) => (
         <div className="flex flex-col items-center mb-6 text-sm">
           <ul>
             <div className="flex items-center mb-2">
-              <div className="w-8 h-8 bg-green-400 mr-2 border-2 border-slate-800 border-solid"></div>
+              <div className="w-8 h-8 bg-green-600 mr-2 border-2 border-slate-800 border-solid"></div>
               Significa que el profesor misterioso comparte esta casilla con el profesor que seleccionaste, ¡sigue así!!
             </div>
             <div className="flex items-center mb-2">
-              <div className="w-8 h-8 bg-orange-500 mr-2 border-2 border-slate-800 border-solid"></div>
+              <div className="w-8 h-8 bg-orange-600 mr-2 border-2 border-slate-800 border-solid"></div>
               El profesor misterioso comparte alguna de las opciones que están aquí dentro
             </div>
             <div className="flex items-center mb-2">
-              <div className="w-8 h-8 bg-red-500 mr-2 border-2 border-slate-800 border-solid"></div>
+              <div className="w-8 h-8 bg-red-600 mr-2 border-2 border-slate-800 border-solid"></div>
               El profesor misterioso NO comparte esta casilla con el profesor que seleccionaste, probemos con otro
             </div>
           </ul>
@@ -27,7 +27,7 @@ const ModalInstrucciones = ({ showModal, handleCloseModal }) => (
           </div>
         </div>
         <button
-          className=" bg-stone-100 hover:bg-stone-600 text-black font-bold py-2 px-4 rounded-full transition duration-300"
+          className=" bg-stone-100 hover:bg-stone-600 hover:text-white text-black font-bold py-2 px-4 rounded-full transition duration-300"
           onClick={handleCloseModal}
         >
           Jugar
