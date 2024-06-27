@@ -3,15 +3,15 @@ import React from 'react';
 const ModalInstrucciones = ({ showModal, handleCloseModal }) => (
   showModal ? (
     <div className="fixed inset-0 flex justify-center items-center bg-gray-900 bg-opacity-25 backdrop-blur-sm">
-      <div className="bg-pink-700 p-10 rounded-lg max-w-auto mx-auto text-center shadow-lg">
-        <h1 className="text-2xl font-bold mb-4">¿Cómo jugar?</h1>
-        <h2 className="text-l mb-6">Instrucciones</h2>
-        <h3 className="text-xl mb-4">Adivina el profesor misterioso del día de hoy</h3>
+      <div className="bg-stone-400 p-10 rounded-lg max-w-auto mx-auto text-center shadow-lg">
+        <h1 className="text-3xl font-bold  mb-4">¿Cómo jugar?</h1>
+        <h2 className="text-l mb-6">Adivina el profesor misterioso del día de hoy</h2>
+        <h3 className="text-xl mb-4">Instrucciones</h3>
         <div className="flex flex-col items-center mb-6 text-sm">
           <ul>
             <div className="flex items-center mb-2">
-              <div className="w-8 h-8 bg-green-500 mr-2 border-2 border-slate-800 border-solid"></div>
-              Significa que el profesor misterioso comparte esta casilla con el profesor que seleccionaste, ¡sigue así!
+              <div className="w-8 h-8 bg-green-400 mr-2 border-2 border-slate-800 border-solid"></div>
+              Significa que el profesor misterioso comparte esta casilla con el profesor que seleccionaste, ¡sigue así!!
             </div>
             <div className="flex items-center mb-2">
               <div className="w-8 h-8 bg-orange-500 mr-2 border-2 border-slate-800 border-solid"></div>
@@ -21,14 +21,13 @@ const ModalInstrucciones = ({ showModal, handleCloseModal }) => (
               <div className="w-8 h-8 bg-red-500 mr-2 border-2 border-slate-800 border-solid"></div>
               El profesor misterioso NO comparte esta casilla con el profesor que seleccionaste, probemos con otro
             </div>
-            <div className="flex items-center mb-2">
-              <div className="w-8 h-8 bg-slate-900 mr-2 border-2 border-slate-800 border-solid"></div>
-              Tendras 3 intentos para poder activar el boton que te dara una pista sobre el profesor misterioso
-            </div>
           </ul>
+          <div className="flex items-center mt-5 mb-2 text-center text-lg">
+            Tendrás 3 intentos para poder activar el botón que te dará una pista sobre el profesor misterioso.
+          </div>
         </div>
         <button
-          className="bg-pink-500 hover:bg-pink-600 text-white font-bold py-2 px-4 rounded-full transition duration-300"
+          className=" bg-stone-100 hover:bg-stone-600 text-black font-bold py-2 px-4 rounded-full transition duration-300"
           onClick={handleCloseModal}
         >
           Jugar

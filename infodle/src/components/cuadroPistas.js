@@ -9,8 +9,8 @@ const CuadroPistas = ({intentos}) => {
     return (
     <div className = "w-full flex justify-end">
         <button onClick={openPista} 
-                className={`fixed bottom-5 right-5 text-white transition duration-300 font-bold py-2 px-4 rounded-full z-10 ${
-                    intentos !== 0 ? 'bg-pink-700 ' : 'bg-pink-700 hover:bg-pink-600'
+                className={`fixed bottom-5 right-5 text-black transition duration-300 font-bold py-2 px-4 rounded-full z-10 ${
+                    intentos !== 0 ? 'bg-stone-100 ' : 'bg-stone-100 hover:bg-stone-600'
                 }`}
                 disabled={intentos !== 0}
             >
@@ -20,12 +20,12 @@ const CuadroPistas = ({intentos}) => {
         </button>
         {showPista && (
                 <div className="fixed inset-0 flex items-center justify-center  z-50">
-                    <div className="bg-pink-700 rounded-lg shadow-lg p-8 w-64 max-w-md fixed bottom-5 right-5">
+                    <div className="bg-stone-500 rounded-lg shadow-lg p-8 w-64 max-w-md fixed bottom-5 right-5">
                         <h2 className="text-center text-2xl font-bold mb-4">Pistas</h2>
                         <div className = "text-center">🍙🍱🍘🍜🍣⛩️🏯🎌</div>
                         <button
                             onClick={closePista}
-                            className="mt-4 bg-pink-500 hover:bg-pink-600 text-white font-bold py-2 px-4 rounded-full"
+                            className="mt-4 text-black bg-stone-100 hover:bg-stone-600  font-bold py-2 px-4 rounded-full"
                         >
                             Cerrar
                         </button>
