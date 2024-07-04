@@ -17,7 +17,6 @@ export default function Home() {
   const [intentos, setIntentos] = useState(3);
 
   useEffect(() => {
-    setSugerencias(profesores.map(profesor => profesor.nombre));
     seleccionarProfesorDelDia();
   }, []);
 
@@ -80,7 +79,7 @@ export default function Home() {
 
   const handleSuggestionClick = (suggestion) => {
     setNombreIngresado(suggestion);
-    if(intentos > 0){
+    if (intentos > 0) {
       setIntentos(intentos - 1);
     }
     setSugerencias([]);
@@ -90,7 +89,7 @@ export default function Home() {
 
   const handleOpenModal = () => setShowModal(true);
   const handleCloseModal = () => setShowModal(false);
-  
+
 
 
   return (
@@ -99,7 +98,7 @@ export default function Home() {
         <ModalInstrucciones showModal={showModal} handleCloseModal={handleCloseModal} />
       </div>
       <div className={`p-6 ${showModal ? 'opacity-50' : ''}`}>
-        <TituloInfodle/>
+        <TituloInfodle />
         <BarraBusqueda
           nombreIngresado={nombreIngresado}
           handleInputChange={handleInputChange}
@@ -108,9 +107,9 @@ export default function Home() {
         />
         <BotonVolver handleClick={handleOpenModal} text="Volver a Instrucciones" />
         <ProfesorGrid adivinanzas={adivinanzas} profesorDelDia={profesorDelDia} />
-        <CuadroPistas intentos={intentos}/> 
+        <CuadroPistas intentos={intentos} />
       </div>
-      
+
     </>
   );
 }
