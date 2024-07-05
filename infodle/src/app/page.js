@@ -22,6 +22,9 @@ const Page = () => {
   useEffect(() => {
     seleccionarProfesorDelDia();
     setShowModal(true);
+
+    // Exponer la función a la consola
+    window.sortearNuevoProfesor = sortearNuevoProfesor;
   }, []);
 
   const seleccionarProfesorDelDia = () => {
@@ -42,6 +45,12 @@ const Page = () => {
       setProfesorDelDia(profesorAleatorio);
       localStorage.setItem('profesorDelDia', JSON.stringify({ profesor: profesorAleatorio, fecha: hoy }));
     }
+  };
+
+  const sortearNuevoProfesor = () => {
+    const profesorAleatorio = profesores[Math.floor(Math.random() * profesores.length)];
+    setProfesorDelDia(profesorAleatorio);
+    console.log('Nuevo profesor sorteado:', profesorAleatorio);
   };
 
   useEffect(() => {
