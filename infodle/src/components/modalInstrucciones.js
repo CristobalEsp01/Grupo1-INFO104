@@ -23,7 +23,7 @@ const ModalInstrucciones = ({ showModal, handleCloseModal }) => (
             </div>
           </ul>
           <div className="flex items-center mt-5 mb-2 text-center text-lg">
-            Tendrás 3 intentos para poder activar el botón que te dará una pista sobre el profesor misterioso.
+            Tendrás 5 intentos para poder activar el botón que te dará una pista sobre el profesor misterioso.
           </div>
         </div>
         <button

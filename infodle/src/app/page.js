@@ -135,7 +135,7 @@ const Page = () => {
           disabled={showDetalle}
         />
         {!showDetalle && <BotonVolver handleClick={handleOpenModal} text="Volver a Instrucciones" />}
-        {!showDetalle && <CuadroPistas intentos={intentos} />}
+        {!showDetalle && <CuadroPistas intentos={intentos} profesorDelDia={profesorDelDia}/>}
         <ProfesorGrid adivinanzas={adivinanzas} profesorDelDia={profesorDelDia} />
       </div>
       {showDetalle && profesorDelDia && <DetalleProfesor profesor={profesorDelDia} onClose={handleCloseDetalle} />}
