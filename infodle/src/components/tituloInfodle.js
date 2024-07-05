@@ -1,10 +1,14 @@
 import React from 'react';
 
-const TituloInfodle = () => (
-    <div className="w-full flex justify-center">
-        <h1 className="bg-stone-700 text-white w-4/12 h-12 rounded-lg flex items-center justify-center text-3xl mb-2 shadow-lg">Infodle</h1>
-    </div>
-);
+const TituloInfodle = () => {
+    return (
+        <div className="text-center my-8">
+            <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-gray-800 to-black drop-shadow-lg">
+                Infodle
+            </h1>
+            <p className="text-gray-600 text-lg mt-2">¡Adivina el profesor del día!</p>
+        </div>
+    );
+};
 
 export default TituloInfodle;
-
