@@ -54,7 +54,7 @@ const DetalleProfesor = ({ profesor, onClose }) => {
           <img src={profesor.foto} alt={profesor.nombre} className="mb-4 w-32 h-32 rounded-full mx-auto" />
         </div>
         <div className="text-left">
-          <p className="text-gray-600">{profesor.bio}</p>
+          <p className="text-gray-700">{profesor.bio}</p>
         </div>
       </div>
     </div>

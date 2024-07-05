@@ -17,7 +17,7 @@
     },
     {
         "nombre": "Héctor Ferrada",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Doctor",
         "carrera": "Analista Computacional",
         "universidad": "U. de Santiago de Chile",
@@ -32,7 +32,7 @@
     },
     {
         "nombre": "Julio Daniel Guerra Hollstein",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Doctor",
         "carrera": "Ing. Civil en Informática",
         "universidad": "U. Austral de Chile",
@@ -47,7 +47,7 @@
     },
     {
         "nombre": "Jorge Maturana Ortiz",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Doctor",
         "carrera": "Ing. Civil en Informática",
         "universidad": "U. Técnica Federico Santa Maria",
@@ -78,7 +78,7 @@
     },
     {
         "nombre": "Jorge Morales Vilugron",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Magister",
         "carrera": "Ing. Electrónico",
         "universidad": "U. de Santiago",
@@ -92,7 +92,7 @@
     },
     {
         "nombre": "Mauricio Ruiz-Tagle Molina",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Doctor",
         "carrera": "Ing. Civil en Informática",
         "universidad": "U. Austral de Chile",
@@ -107,7 +107,7 @@
     },
     {
         "nombre": "Luis Alberto Álvares Gonzáles",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Magister",
         "carrera": "Ing. Civil Electricista",
         "universidad": "U. Técnica del Estado de Santiago",
@@ -155,7 +155,7 @@
     },
     {
         "nombre": "Matthieu Vernier",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Doctor",
         "carrera": "Máster en Investigación Ciencias y Tecnologías mención Informática",
         "universidad": "U. de Caen Basse-Normandie",
@@ -171,7 +171,7 @@
     },
     {
         "nombre": "Cristóbal Navarro Guerrero",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Doctor",
         "carrera": "Ing. Civil en Informática",
         "universidad": "U. Austral de Chile",
@@ -186,7 +186,7 @@
     },
     {
         "nombre": "Christian Lazo Ramírez",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Doctor",
         "carrera": "Ing. Gestion Informática",
         "universidad": "Universidad de Vigo",
@@ -200,7 +200,7 @@
     },
     {
         "nombre": "Pablo Huijse Heise",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Doctor",
         "carrera": "Ing. Civil Electricista",
         "universidad": "Universidad de Chile",
@@ -214,7 +214,7 @@
     },
     {
         "nombre": "Juan Pablo Salazar Fernández",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Magister",
         "carrera": "Ing. Civil en Informática",
         "universidad": "U. Austral de Chile",
@@ -230,7 +230,7 @@
     },
     {
         "nombre": "Erick Araya Araya",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Magister",
         "carrera": "Ing. Electrónico",
         "universidad": "U. del Norte",
@@ -246,7 +246,7 @@
     },
     {
         "nombre": "Esteban Aguilera Romero",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Magister",
         "carrera": "Magister en Matematica",
         "universidad": "Pontificia Universidad Catolica de Valparaiso",
@@ -261,7 +261,7 @@
     },
     {
         "nombre": "Sergio Argomedo Cornejo",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Diplomado",
         "carrera": "Licenciado en Matemáticas",
         "universidad": "Pontificia Universidad Catolica de Valparaiso",
@@ -274,7 +274,7 @@
     },
     {
         "nombre": "Javier Arriaza Lopez",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Magister",
         "carrera": "Licenciado en Matemáticas",
         "universidad": "Pontificia Universidad Catolica de Chile",
@@ -288,7 +288,7 @@
     },
     {
         "nombre": "Raul Cisternas Gutierrez",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Licenciado",
         "carrera": "Ing. Civil Matemático",
         "universidad": "Universidad de Concepcion",
@@ -303,7 +303,7 @@
     },
     {
         "nombre": "Luis Veas Castillo",
-        "genero": "Másculino",
+        "genero": "Masculino",
         "gradAcademico": "Doctor",
         "carrera": "Ciencias de la computacion",
         "universidad": "Universidad de Chile",

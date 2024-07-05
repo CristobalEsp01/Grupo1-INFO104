@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-const CuadroPistas = ({intentos}) => {
+const CuadroPistas = ({intentos, profesorDelDia}) => {
     const[showPista, setShowPista] = useState(false);
 
     const openPista = () => setShowPista(true);
@@ -22,7 +22,7 @@ const CuadroPistas = ({intentos}) => {
                 <div className="fixed inset-0 flex items-center justify-center  z-50">
                     <div className="bg-stone-500 rounded-lg shadow-lg p-8 w-64 max-w-md fixed bottom-5 right-5">
                         <h2 className="text-center text-2xl font-bold mb-4 text-white">Pista</h2>
-                        <div className = "text-center">🍙🍱🍘🍜🍣⛩️🏯🎌</div>
+                        <div className = "text-center">{profesorDelDia.pista}</div>
                         <button
                             onClick={closePista}
                             className="mt-4 text-black bg-stone-100 hover:bg-stone-600 hover:text-white font-bold justify-end py-2 px-4 rounded-full"
