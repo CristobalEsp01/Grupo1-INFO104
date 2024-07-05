@@ -5,7 +5,7 @@ const DetalleProfesor = ({ profesor, onClose }) => {
 
   return (
     <div className="fixed inset-0 bg-gray-900 bg-opacity-75 flex justify-center items-center z-20">
-      <div className="bg-white p-6 rounded-lg shadow-lg w-11/12 max-w-md">
+      <div className="bg-white p-6 rounded-lg shadow-lg w-11/12 max-w-md transform transition-transform duration-500 ease-out scale-105 opacity-0 animate-fadeInScale">
         <button onClick={onClose} className="text-red-500 font-bold mb-4 float-right">X</button>
         <div className="text-center">
           <img src={profesor.foto} alt={profesor.nombre} className="mb-4 w-32 h-32 rounded-full mx-auto" />
