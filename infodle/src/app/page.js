@@ -15,13 +15,13 @@ const Page = () => {
   const [sugerencias, setSugerencias] = useState([]);
   const [intentos, setIntentos] = useState(5);
   const [adivinanzas, setAdivinanzas] = useState([]);
-  const [showModal, setShowModal] = useState(true); // Estado inicial del modal es true
+  const [showModal, setShowModal] = useState(true);
   const [showDetalle, setShowDetalle] = useState(false);
-  const [selectedSuggestionIndex, setSelectedSuggestionIndex] = useState(-1); // Para manejar la selección con las flechas
+  const [selectedSuggestionIndex, setSelectedSuggestionIndex] = useState(-1);
 
   useEffect(() => {
     seleccionarProfesorDelDia();
-    setShowModal(true); // Mostrar el modal inmediatamente después de cargar la página
+    setShowModal(true);
   }, []);
 
   const seleccionarProfesorDelDia = () => {
@@ -44,11 +44,15 @@ const Page = () => {
     }
   };
 
+  useEffect(() => {
+    console.log('Profesor del día:', profesorDelDia); // Verificar que el profesor del día se selecciona correctamente
+  }, [profesorDelDia]);
+
   const handleInputChange = (e) => {
-    if (showDetalle) return; // Deshabilitar la entrada si el profesor ha sido adivinado
+    if (showDetalle) return;
     const value = e.target.value;
     setNombreIngresado(value);
-    setSelectedSuggestionIndex(-1); // Reiniciar la selección de sugerencia cuando se ingresa un nuevo valor
+    setSelectedSuggestionIndex(-1);
     if (value.length > 0) {
       const normalizedValue = normalizeString(value.toLowerCase());
       const filteredSugerencias = profesores
@@ -83,25 +87,27 @@ const Page = () => {
   };
 
   const handleSuggestionClick = (suggestion) => {
-    if (showDetalle) return; // Deshabilitar los clics en sugerencias si el profesor ha sido adivinado
+    if (showDetalle) return;
     setNombreIngresado(suggestion);
     if (intentos > 0) {
       setIntentos(intentos - 1);
     }
     setSugerencias([]);
     const adivinadoProfesor = profesores.find(prof => prof.nombre === suggestion);
+    console.log('Adivinado profesor:', adivinadoProfesor); // Verificar que el profesor adivinado contiene bio
     setAdivinanzas(prevAdivinanzas => [adivinadoProfesor, ...prevAdivinanzas]);
     if (adivinadoProfesor.nombre === profesorDelDia.nombre) {
-      setShowDetalle(true); // Mostrar detalles si el usuario adivina correctamente
+      setShowDetalle(true);
+      setProfesorDelDia(adivinadoProfesor); // Asegurarse de que el profesor del día tenga toda la información
     }
   };
 
   const handleOpenModal = () => {
-    if (!showDetalle) setShowModal(true); // Deshabilitar el botón si el profesor ha sido adivinado
+    if (!showDetalle) setShowModal(true);
   };
 
   const handleCloseModal = () => setShowModal(false);
-  const handleCloseDetalle = () => setShowDetalle(false); // Función para cerrar detalles del profesor
+  const handleCloseDetalle = () => setShowDetalle(false);
 
   return (
     <>
@@ -113,17 +119,17 @@ const Page = () => {
         <BarraBusqueda
           nombreIngresado={nombreIngresado}
           handleInputChange={handleInputChange}
-          handleKeyDown={handleKeyDown} // Añadir manejador de evento de teclado
+          handleKeyDown={handleKeyDown}
           sugerencias={sugerencias}
-          selectedSuggestionIndex={selectedSuggestionIndex} // Pasar el índice de la sugerencia seleccionada
+          selectedSuggestionIndex={selectedSuggestionIndex}
           handleSuggestionClick={handleSuggestionClick}
-          disabled={showDetalle} // Deshabilitar la barra de búsqueda si el profesor ha sido adivinado
+          disabled={showDetalle}
         />
-        {!showDetalle && <BotonVolver handleClick={handleOpenModal} text="Volver a Instrucciones" />} {/* Mostrar el botón solo si no se ha adivinado */}
-        {!showDetalle && <CuadroPistas intentos={intentos} />} {/* Mostrar el cuadro de pistas solo si no se ha adivinado */}
+        {!showDetalle && <BotonVolver handleClick={handleOpenModal} text="Volver a Instrucciones" />}
+        {!showDetalle && <CuadroPistas intentos={intentos} />}
         <ProfesorGrid adivinanzas={adivinanzas} profesorDelDia={profesorDelDia} />
       </div>
-      {showDetalle && <DetalleProfesor profesor={profesorDelDia} onClose={handleCloseDetalle} />} {/* Renderizar detalles del profesor si showDetalle es true */}
+      {showDetalle && profesorDelDia && <DetalleProfesor profesor={profesorDelDia} onClose={handleCloseDetalle} />}
     </>
   );
 };
