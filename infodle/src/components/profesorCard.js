@@ -57,6 +57,7 @@ const ProfesorCard = ({ profesor, profesorDelDia }) => {
       <AtributosElemento
         atributo="universidad"
         valor={profesor.universidad}
+        tamanoTexto="text-xs"
         color={getColor("universidad")}
       />
       <AtributosElemento
