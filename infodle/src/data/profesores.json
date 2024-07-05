@@ -12,7 +12,8 @@
             "INFO139-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160/https://inf.uach.cl/wp-content/uploads/2020/05/mmaza-160x160-1.jpg",
-        "bio": "Nací en Puerto Montt en 1966. Después de pasar por varios colegios, egresé del Colegio Inmaculada Concepción de Puerto Montt.  Obtuve el  Título de Ingeniero  Civil en Informática en la UACh en 1991. Ese mismo año, inicié mi carrera académica, en la Universidad Austral de Chile, ingresando al Instituto de Informática en categoría Ayudante, de acuerdo al escalafón académico vigente. Posteriormente, en 2003 recibí el Grado Académico de Magíster en Informática Educativa, en la Universidad de La Frontera"
+        "bio": "Nací en Puerto Montt en 1966. Después de pasar por varios colegios, egresé del Colegio Inmaculada Concepción de Puerto Montt.  Obtuve el  Título de Ingeniero  Civil en Informática en la UACh en 1991. Ese mismo año, inicié mi carrera académica, en la Universidad Austral de Chile, ingresando al Instituto de Informática en categoría Ayudante, de acuerdo al escalafón académico vigente. Posteriormente, en 2003 recibí el Grado Académico de Magíster en Informática Educativa, en la Universidad de La Frontera",
+        "pista": "Oriunda de Puerto Montt, se caracteriza por su excelencia y compromiso con la docencia universitaria."
     },
     {
         "nombre": "Héctor Ferrada",
@@ -26,7 +27,8 @@
             "INFO145-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200,h_200/https://inf.uach.cl/wp-content/uploads/2020/05/HFerrada.jpeg",
-        "bio": "Proveniente de Santiago, en donde realicé toda mi educación básica, media y universitaria. En el 2001 entré a la carrera de Licenciatura en Ciencias de la Computación de la USACH, de la cuál egrese el año 2005. En mi tesis de pregrado, trabajé en un sistema experto que resuelve integrales indefinidas. La idea lograda fue que el sistema pudiese resolver paso a paso la función a integrar utilizando las técnicas básicas de integración, como: integración por partes, fracciones parciales, sustituciones trigonométricas, etc."
+        "bio": "Proveniente de Santiago, en donde realicé toda mi educación básica, media y universitaria. En el 2001 entré a la carrera de Licenciatura en Ciencias de la Computación de la USACH, de la cuál egrese el año 2005. En mi tesis de pregrado, trabajé en un sistema experto que resuelve integrales indefinidas. La idea lograda fue que el sistema pudiese resolver paso a paso la función a integrar utilizando las técnicas básicas de integración, como: integración por partes, fracciones parciales, sustituciones trigonométricas, etc.",
+        "pista": "Proveniente de Santiago, se especializa en diseño y analisis de algoritmos."
     },
     {
         "nombre": "Julio Daniel Guerra Hollstein",
@@ -40,7 +42,8 @@
             "INFO104-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_200/https://inf.uach.cl/wp-content/uploads/2020/05/julio.png",
-        "bio": "Nací en Santiago, viví en Antofagasta y luego en Valdivia, donde realicé mi educación media y mis estudios en la UACh. Me titulé de Ingeniero Civil en Informática el año 2004 y he trabajado en la UACh, tanto en proyectos de investigación, de transferencia tecnológica, y como profesor. Realicé mis estudios de doctorado en la Universidad de Pittsburgh, entre los años 2011 y 2017 bajo la tutela del Dr. Peter Brusilovsky y obtuve el grado de doctor en 2017 con mi tesis titulada «Open Learner Models for Self-Regulated Learning: Exploring the Effects of Social Comparison and Granularity». Mi investigación siempre ha estado relacionada con tecnologías de aprendizaje. Durante mi doctorado trabajé con modelos abiertos de aprendiz (open learner models) e implementé visualizaciones que incluyen elementos de comparación social y evalué su influencia en el uso de herramientas en línea para aprender a programar."
+        "bio": "Nací en Santiago, viví en Antofagasta y luego en Valdivia, donde realicé mi educación media y mis estudios en la UACh. Me titulé de Ingeniero Civil en Informática el año 2004 y he trabajado en la UACh, tanto en proyectos de investigación, de transferencia tecnológica, y como profesor. Realicé mis estudios de doctorado en la Universidad de Pittsburgh, entre los años 2011 y 2017 bajo la tutela del Dr. Peter Brusilovsky y obtuve el grado de doctor en 2017 con mi tesis titulada «Open Learner Models for Self-Regulated Learning: Exploring the Effects of Social Comparison and Granularity». Mi investigación siempre ha estado relacionada con tecnologías de aprendizaje. Durante mi doctorado trabajé con modelos abiertos de aprendiz (open learner models) e implementé visualizaciones que incluyen elementos de comparación social y evalué su influencia en el uso de herramientas en línea para aprender a programar.",
+        "pista": "Nacido en santiago, criado en antofagasta y adolescencia valdiviana. Egresado de la UACh y un doctorado en Pittsburgh"
     },
     {
         "nombre": "Jorge Maturana Ortiz",
@@ -55,7 +58,8 @@
             "INFO245-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/https://inf.uach.cl/wp-content/uploads/2020/05/54-160x160-1.jpeg",
-        "bio": "My research area is related with the application of Evolutionary Algorithms (EAs) to solve optimization problems, such as the Satisfiability Problem (SAT), Quality Assignment Problem (QAP) or others issued from Operations Research fields. EAs are powerful metaheuristic (solving methods for a wide range of problems) to solve complex mathematical problems. They imitate the natural process of evolution, representing candidate solutions as individuals, and objective function as the nature pression for survival. Crossover and mutation, among other specialized improvement operators, are applied to individuals. Because of the confluence of diverse operators, EAs have many parameters, and their correct setting is a complex problem also. During my PhD studies I developed some techniques to establish an automatic control of those parameters, so the next step is to export these ideas to other metaheuristics, trying to combine them to solve one problem, what is known as Hyperheuristic."
+        "bio": "My research area is related with the application of Evolutionary Algorithms (EAs) to solve optimization problems, such as the Satisfiability Problem (SAT), Quality Assignment Problem (QAP) or others issued from Operations Research fields. EAs are powerful metaheuristic (solving methods for a wide range of problems) to solve complex mathematical problems. They imitate the natural process of evolution, representing candidate solutions as individuals, and objective function as the nature pression for survival. Crossover and mutation, among other specialized improvement operators, are applied to individuals. Because of the confluence of diverse operators, EAs have many parameters, and their correct setting is a complex problem also. During my PhD studies I developed some techniques to establish an automatic control of those parameters, so the next step is to export these ideas to other metaheuristics, trying to combine them to solve one problem, what is known as Hyperheuristic.",
+        "pista": "Actualmente se desempeña en el cargo directivo de la Escuela de Informatica"
     },
     {
         "nombre": "Marianna Villaroel Manfredi",
@@ -69,7 +73,8 @@
             "INFO073-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/https://inf.uach.cl/wp-content/uploads/2020/05/marianna-160x160-1.jpg",
-        "bio": "Nació en Ovalle, cuarta Región de Chile en el año 1973.  Realizó sus estudios básicos en el colegio Santa Marta de Coquimbo e Inmaculada Concepción de Valdivia, siendo este último, el establecimiento en que realiza también su educación secundaria. Obtiene el  Título de Ingeniero Civil en Informática en la UACh en el año 2000. Se desarrolla  profesionalmente en el ámbito de la Ingeniería de Software en empresas y de manera particular hasta el año 2005, habiendo comenzado ya en el 2003 su desarrollo como docente del Instituto de Informática, en el cual permanece como profesora adjunta, categoría B según la normativa vigente. Luego realiza estudios de Magister en Educación Mención Evaluación y Currículum Basado en Competencias en la Universidad Autónoma de Chile, obteniendo el grado el año 2011."
+        "bio": "Nació en Ovalle, cuarta Región de Chile en el año 1973.  Realizó sus estudios básicos en el colegio Santa Marta de Coquimbo e Inmaculada Concepción de Valdivia, siendo este último, el establecimiento en que realiza también su educación secundaria. Obtiene el  Título de Ingeniero Civil en Informática en la UACh en el año 2000. Se desarrolla  profesionalmente en el ámbito de la Ingeniería de Software en empresas y de manera particular hasta el año 2005, habiendo comenzado ya en el 2003 su desarrollo como docente del Instituto de Informática, en el cual permanece como profesora adjunta, categoría B según la normativa vigente. Luego realiza estudios de Magister en Educación Mención Evaluación y Currículum Basado en Competencias en la Universidad Autónoma de Chile, obteniendo el grado el año 2011.",
+        "pista": "Imparte ramos de 1er semestre y se encarga de darles la más calida bienvenida a los nuevos alumnos de la carrera."
     },
     {
         "nombre": "Jorge Morales Vilugron",
@@ -82,7 +87,8 @@
             "INFO289-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/https://inf.uach.cl/wp-content/uploads/2020/05/morales-160x160-1.jpg",
-        "bio": "Nací en Valdivia el año 1960, mi educación básica la realice en el Colegio Público N.4 hasta 1974, la enseñanza media fue en el Liceo Industrial de Valdivia hasta 1978 y 1979 ingrese a la Universidad Técnica del Estado, sede Valdivia. Estudio Ing. (E) en Electricidad, mención Electrónica y telecomunicaciones. Me título el II semestre de 1983. Mi tesis de grado ya estaba relacionada con el mundo de la informática y diseñe un sistema informático que permitía armar y testear circuitos digitales y simular su comportamiento. En marzo 1984 ingreso como Profesor al Instituto Profesional de Valdivia, que años más tarde se integra a la Universidad Austral de Chile como la Facultad de ciencias de la Ingeniería. El año 2007 me integro al Instituto de Informática, desarrollandome principalmente en el área de la Docencia y Patrocinio de Trabajos de Titulación. En estos 33 años de profesor he tenido el orgullo de hacer clases en las escuelas de Mecánica, Naval, Acústica, Obras civiles, Construcción y Electrónica."
+        "bio": "Nací en Valdivia el año 1960, mi educación básica la realice en el Colegio Público N.4 hasta 1974, la enseñanza media fue en el Liceo Industrial de Valdivia hasta 1978 y 1979 ingrese a la Universidad Técnica del Estado, sede Valdivia. Estudio Ing. (E) en Electricidad, mención Electrónica y telecomunicaciones. Me título el II semestre de 1983. Mi tesis de grado ya estaba relacionada con el mundo de la informática y diseñe un sistema informático que permitía armar y testear circuitos digitales y simular su comportamiento. En marzo 1984 ingreso como Profesor al Instituto Profesional de Valdivia, que años más tarde se integra a la Universidad Austral de Chile como la Facultad de ciencias de la Ingeniería. El año 2007 me integro al Instituto de Informática, desarrollandome principalmente en el área de la Docencia y Patrocinio de Trabajos de Titulación. En estos 33 años de profesor he tenido el orgullo de hacer clases en las escuelas de Mecánica, Naval, Acústica, Obras civiles, Construcción y Electrónica.",
+        "pista": "Profesor con largo recorrido en nuestra universidad, con reconocimientos por ser uno de los profesores mejor evaluados"
     },
     {
         "nombre": "Mauricio Ruiz-Tagle Molina",
@@ -96,7 +102,8 @@
             "INFO146-18"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/https://inf.uach.cl/wp-content/uploads/2020/05/AS_140507_2852-160x160-1.jpg",
-        "bio": "Mauricio Ruiz-Tagle Molina, Doctor en Software y Sistemas, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Instituto de Informática."
+        "bio": "Mauricio Ruiz-Tagle Molina, Doctor en Software y Sistemas, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Instituto de Informática.",
+        "pista": "Fue director de escuela, hizo sus posgrados en Madrid."
     },
     {
         "nombre": "Luis Alberto Álvares Gonzáles",
@@ -110,7 +117,8 @@
             "INFO288-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/https://inf.uach.cl/wp-content/uploads/2020/05/Luis-Alvarez-160x160-1.jpg",
-        "bio": "Hijo de maquinista de trenes, nací y me crié entre ramales ferroviarios. Al momento de nacer mis padres vivían en Toltén, pero vi la luz en Temuco (1956) y mi padre me registró en Freire. Al poco tiempo nos trasladamos a Curanilahue, de ahí a Concepción, luego a Copiapó y finalmente inicié mis estudios primarios en la Escuela Consolidada de Chañaral y los terminé en la Escuela de Tegualda (provincia de Llanquihue). Estudié la secundaria en la Escuela Industrial de Osorno (1971 – 1974) y posteriormente ingresé a la Universidad Técnica del Estado en Valdivia (1975), egresé como Ingeniero Civil Electricista en 1981 en la Universidad Técnica del Estado de Santiago y a mediados de 1982 me dio el título la Universidad de Santiago de Chile. El 1983, ingresé como profesor al Instituto de Informática, recién creado en la Universidad Austral de Chile, donde permanezco hasta el día de hoy. Durante todos estos años he desarrollado principalmente docencia e investigación, aunque por 12 años (2000 al 2012), me desempeñé como Director del Instituto de Informática. En docencia he hecho un sin número de cursos distintos, y en los últimos años me he dedicado a enseñar programación computacional a los estudiantes que recién ingresan a la Facultad de Ingeniería, soy feliz impartiendo docencia. En investigación y desarrollo me he dedicado al área de Tecnologías de Aprendizaje (Learning Technologies), formamos el Grupo de Investigación en Tecnologías de Aprendizaje (www.gita.cl) y he participado como autor de artículos en numerosas conferencias internacionales en América Latina y Europa."
+        "bio": "Hijo de maquinista de trenes, nací y me crié entre ramales ferroviarios. Al momento de nacer mis padres vivían en Toltén, pero vi la luz en Temuco (1956) y mi padre me registró en Freire. Al poco tiempo nos trasladamos a Curanilahue, de ahí a Concepción, luego a Copiapó y finalmente inicié mis estudios primarios en la Escuela Consolidada de Chañaral y los terminé en la Escuela de Tegualda (provincia de Llanquihue). Estudié la secundaria en la Escuela Industrial de Osorno (1971 – 1974) y posteriormente ingresé a la Universidad Técnica del Estado en Valdivia (1975), egresé como Ingeniero Civil Electricista en 1981 en la Universidad Técnica del Estado de Santiago y a mediados de 1982 me dio el título la Universidad de Santiago de Chile. El 1983, ingresé como profesor al Instituto de Informática, recién creado en la Universidad Austral de Chile, donde permanezco hasta el día de hoy. Durante todos estos años he desarrollado principalmente docencia e investigación, aunque por 12 años (2000 al 2012), me desempeñé como Director del Instituto de Informática. En docencia he hecho un sin número de cursos distintos, y en los últimos años me he dedicado a enseñar programación computacional a los estudiantes que recién ingresan a la Facultad de Ingeniería, soy feliz impartiendo docencia. En investigación y desarrollo me he dedicado al área de Tecnologías de Aprendizaje (Learning Technologies), formamos el Grupo de Investigación en Tecnologías de Aprendizaje (www.gita.cl) y he participado como autor de artículos en numerosas conferencias internacionales en América Latina y Europa.",
+        "pista": "Es uno de los profesores con más historia en nuestra carrera, nuestro edificio fue contruido durante su dirección de escuela."
     },
     {
         "nombre": "Tania Letelier Santibañez",
@@ -125,7 +133,8 @@
             "INFO295-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/https://inf.uach.cl/wp-content/uploads/2020/05/AS_140507_2908-160x160-1.jpg",
-        "bio": "Nací en Osorno en el año 1976. Hija de profesores, crecí escuchando los permanentes desafíos y logros en el proceso de la enseñanza. Realicé mi educación básica y media en el Colegio Santa Marta de Osorno. En el año 1994 ingresé a la Universidad Austral de Chile egresando en el año 2000 como Ingeniero Civil en Informática, en los siguientes dos años desarrollé mi tesis relacionada con algoritmos de localización óptima. Entre los años 1999 al 2008 trabajé en diferentes empresas, instituciones y proyectos del área forestal de la zona, desempeñándome en tareas de diseño, desarrollo y mantención de software. El año 2009, ingresé como profesor adjunto al Instituto de Informática donde permanezco hasta el día de hoy. Durante todos estos años he desarrollado docencia en cursos de programación computacional a estudiantes en diferentes carreras y semestres en sus mallas curriculares. En los últimos años he comenzado a impartir, también, asignaturas relacionadas al área de gestión y administración."
+        "bio": "Nací en Osorno en el año 1976. Hija de profesores, crecí escuchando los permanentes desafíos y logros en el proceso de la enseñanza. Realicé mi educación básica y media en el Colegio Santa Marta de Osorno. En el año 1994 ingresé a la Universidad Austral de Chile egresando en el año 2000 como Ingeniero Civil en Informática, en los siguientes dos años desarrollé mi tesis relacionada con algoritmos de localización óptima. Entre los años 1999 al 2008 trabajé en diferentes empresas, instituciones y proyectos del área forestal de la zona, desempeñándome en tareas de diseño, desarrollo y mantención de software. El año 2009, ingresé como profesor adjunto al Instituto de Informática donde permanezco hasta el día de hoy. Durante todos estos años he desarrollado docencia en cursos de programación computacional a estudiantes en diferentes carreras y semestres en sus mallas curriculares. En los últimos años he comenzado a impartir, también, asignaturas relacionadas al área de gestión y administración.",
+        "pista": "Nacida en Osorno. Hasta hace poco ejerció la dirección de escuela, "
     },
     {
         "nombre": "Eliana Scheihing García",
@@ -141,7 +150,8 @@
             "INFO299-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/https://inf.uach.cl/wp-content/uploads/2020/05/AS_140507_2960-160x160-1.jpg",
-        "bio": "Nací en Puerto Montt en  el año 1962, realicé mi educación básica en la Escuela España de Puerto Montt  y el inicio de la educación media en el Liceo de Niñas de Puerto Montt,. En el año 1976 nos trasladamos  junto a mi familia a Valdivia completé mi enseñanza media en el Liceo de Niñas de Valdivia. En 1979 ingresé a estudiar Ingeniería en la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile  en Santiago y me titulé el año 1986 como Ingeniera Civil Matemática. Mi tesis de pregrado estuvo relacionada con un modelo probabilístico para el tiempo entre ocurrencias de grandes sismos, el cual fue probado con los datos históricos de la zona central de Chile.  Comencé a trabajar en la UACh en septiembre de 1987, realizando docencia de en los cursos de Programación y Teoría de Autómatas. En noviembre del año 1990 salí con permiso de perfeccionamiento a estudiar un doctorado en Estadística en la Universidad Católica de Lovaina, Bélgica, el cual terminé el año 1995. Actualmente me desempeño en docencia e investigación en el Instituto de Informática, particularmente en análisis estadístico de datos, minería de datos y machine learning,  aplicados a áreas tales como educación, comunicación y emprendimiento."
+        "bio": "Nací en Puerto Montt en  el año 1962, realicé mi educación básica en la Escuela España de Puerto Montt  y el inicio de la educación media en el Liceo de Niñas de Puerto Montt,. En el año 1976 nos trasladamos  junto a mi familia a Valdivia completé mi enseñanza media en el Liceo de Niñas de Valdivia. En 1979 ingresé a estudiar Ingeniería en la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile  en Santiago y me titulé el año 1986 como Ingeniera Civil Matemática. Mi tesis de pregrado estuvo relacionada con un modelo probabilístico para el tiempo entre ocurrencias de grandes sismos, el cual fue probado con los datos históricos de la zona central de Chile.  Comencé a trabajar en la UACh en septiembre de 1987, realizando docencia de en los cursos de Programación y Teoría de Autómatas. En noviembre del año 1990 salí con permiso de perfeccionamiento a estudiar un doctorado en Estadística en la Universidad Católica de Lovaina, Bélgica, el cual terminé el año 1995. Actualmente me desempeño en docencia e investigación en el Instituto de Informática, particularmente en análisis estadístico de datos, minería de datos y machine learning,  aplicados a áreas tales como educación, comunicación y emprendimiento.",
+        "pista": "Actual directora de instituto, imparte ramos de 7mo semestre en adelante"
     },
     {
         "nombre": "Matthieu Vernier",
@@ -156,7 +166,8 @@
             "INFO283-21"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_400,h_400/https://inf.uach.cl/wp-content/uploads/2020/05/9DCoEfuJ_400x400.jpeg",
-        "bio": "Hizó sus estudios de pregrado en Informática en la Universidad de Caen (Francia) entre 2002 y 2007, luego un doctorado en Informática en la Universidad de Nantes (Francia) durante el cual desarrolló una tesis sobre el análisis del discurso subjetivo con algoritmos de tratamiento automático del lenguaje (2007-2011) y finalmente realizó un Máster en Administración de Empresas (2012-2013) en la Universidad de Nantes. Entre 2011 y 2015, inició actividades empresariales y proyectos no lucrativos en Francia, Nueva-Zelanda y Chile teniendo como hilo conductor la construcción de una sociedad democrática basada sobre la justicia social y ambiental. Desde 2016, es académico de la Universidad Austral de Chile. Sus áreas de interés se centran en las interacciones Humano-Computador y el análisis de datos no estructurados para la exploración de fenómenos sociales y el diseño de nuevos usos e interacciones entre humanos y tecnológias."
+        "bio": "Hizó sus estudios de pregrado en Informática en la Universidad de Caen (Francia) entre 2002 y 2007, luego un doctorado en Informática en la Universidad de Nantes (Francia) durante el cual desarrolló una tesis sobre el análisis del discurso subjetivo con algoritmos de tratamiento automático del lenguaje (2007-2011) y finalmente realizó un Máster en Administración de Empresas (2012-2013) en la Universidad de Nantes. Entre 2011 y 2015, inició actividades empresariales y proyectos no lucrativos en Francia, Nueva-Zelanda y Chile teniendo como hilo conductor la construcción de una sociedad democrática basada sobre la justicia social y ambiental. Desde 2016, es académico de la Universidad Austral de Chile. Sus áreas de interés se centran en las interacciones Humano-Computador y el análisis de datos no estructurados para la exploración de fenómenos sociales y el diseño de nuevos usos e interacciones entre humanos y tecnológias.",
+        "pista": "Comparte nacionalidad con el baguette"
     },
     {
         "nombre": "Cristóbal Navarro Guerrero",
@@ -170,7 +181,8 @@
             "INFO242-22"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_302,h_302/https://inf.uach.cl/wp-content/uploads/2020/05/IMG_20190523_122748.jpg",
-        "bio": "Nací en Valdivia, Chile. El 2010 termine los estudios de pregrado en Ingeniería Civil en Informática. El 2015 termine el Ph.D en Ciencias de la Computación en la Universidad de Chile, con Nancy Hitschfeld, Fabrizio Canfora y Gonzalo Navarro como patrocinantes. Entre el 2015 y 2018 hice un Postdoc en mapeos eficientes para computación en GPU sobre dominios de datos complejos. Desde entonces mis intereses son la computación en GPU, rendering foto-realista (ej. Ray Tracing) en tiempo real y simulaciones científicas. También soy baterista y de vez en cuando comparto videos a la comunidad."
+        "bio": "Nací en Valdivia, Chile. El 2010 termine los estudios de pregrado en Ingeniería Civil en Informática. El 2015 termine el Ph.D en Ciencias de la Computación en la Universidad de Chile, con Nancy Hitschfeld, Fabrizio Canfora y Gonzalo Navarro como patrocinantes. Entre el 2015 y 2018 hice un Postdoc en mapeos eficientes para computación en GPU sobre dominios de datos complejos. Desde entonces mis intereses son la computación en GPU, rendering foto-realista (ej. Ray Tracing) en tiempo real y simulaciones científicas. También soy baterista y de vez en cuando comparto videos a la comunidad.",
+        "pista": "Amo y señor del patagón"
     },
     {
         "nombre": "Christian Lazo Ramírez",
@@ -183,7 +195,8 @@
             "INFO239-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/https://inf.uach.cl/wp-content/uploads/2020/05/AS_140507_2821-160x160-1.jpg",
-        "bio": "Christian Lazo Ramírez, Doctor en Ingeniería Telemática, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Instituto de Informática."
+        "bio": "Christian Lazo Ramírez, Doctor en Ingeniería Telemática, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Instituto de Informática.",
+        "pista": ""
     },
     {
         "nombre": "Pablo Huijse Heise",
@@ -196,7 +209,8 @@
             "INFO285-21"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_150,h_150/http://informatica.uach.cl/wp-content/uploads/2020/05/PHuijse-150x150.jpeg",
-        "bio": "Nacido en Valdivia. Hizo sus estudios de bachillerato (2004-2010) y luego doctorado en ingeniería eléctrica (2010-2014) en la Universidad de Chile. Realizó pasantías doctorales en el Institute for Applied Computational Science Harvard y en el Computational Neuroengineering Laboratory, University of Florida. Entre 2015-2017 hizo un postdoc en el Instituto Milenio de Astrofísica. Desde 2018 es profesor auxiliar en el Instituto de Informática de la Universidad Austral de Chile. Su investigación se centra en el desarrollo de métodos basados en procesamiento de señales, machine learning y teoría de la información para el análisis de datos astronómicos"
+        "bio": "Nacido en Valdivia. Hizo sus estudios de bachillerato (2004-2010) y luego doctorado en ingeniería eléctrica (2010-2014) en la Universidad de Chile. Realizó pasantías doctorales en el Institute for Applied Computational Science Harvard y en el Computational Neuroengineering Laboratory, University of Florida. Entre 2015-2017 hizo un postdoc en el Instituto Milenio de Astrofísica. Desde 2018 es profesor auxiliar en el Instituto de Informática de la Universidad Austral de Chile. Su investigación se centra en el desarrollo de métodos basados en procesamiento de señales, machine learning y teoría de la información para el análisis de datos astronómicos",
+        "pista": "Valdiviano, imparte ramos de 8vo semestre en adelante"
     },
     {
         "nombre": "Juan Pablo Salazar Fernández",
@@ -211,7 +225,8 @@
             "INFO286-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/http://informatica.uach.cl/wp-content/uploads/2020/05/AS_140507_2928-160x160-1.jpg",
-        "bio": "Juan Pablo Salazar Fernández, Magíster en Administración de Empresas, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Instituto de Informática."
+        "bio": "Juan Pablo Salazar Fernández, Magíster en Administración de Empresas, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Instituto de Informática.",
+        "pista": "Imparte ramos de 8vo semestre en adelante"
     },
     {
         "nombre": "Erick Araya Araya",
@@ -226,7 +241,8 @@
             "INFO088-17"
         ],
         "foto": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_160,h_160/http://informatica.uach.cl/wp-content/uploads/2020/05/AS_140507_2990-160x160-1.jpg",
-        "bio": "Nació en Iquique, Región de Tarapacá, al norte de Chile.  Realizó su enseñanza básica y media en el colegio Don Bosco de Iquique. Se desplaza a Antofagasta para estudiar Ing. Electrónica en la Universidad del Norte, titulándose el año 1976. Sigue estudios de post-grado el año 1981 en la Universidad Técnica Federico Santa María de Valparaíso, egresando el año 1983 y obteniendo el grado de Magister en Ingeniería Electrónica el año 1988."
+        "bio": "Nació en Iquique, Región de Tarapacá, al norte de Chile.  Realizó su enseñanza básica y media en el colegio Don Bosco de Iquique. Se desplaza a Antofagasta para estudiar Ing. Electrónica en la Universidad del Norte, titulándose el año 1976. Sigue estudios de post-grado el año 1981 en la Universidad Técnica Federico Santa María de Valparaíso, egresando el año 1983 y obteniendo el grado de Magister en Ingeniería Electrónica el año 1988.",
+        "pista": "Es electronico, como la canción"
     },
     {
         "nombre": "Esteban Aguilera Romero",
@@ -240,7 +256,8 @@
             "BAIN065-14"
         ],
         "foto": "https://ingenieria.uach.cl/wp-content/uploads/2023/06/Esteban-Aguilera.jpeg",
-        "bio": "Esteban Aguilera Romero, Magíster en Matemática, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Centro de Docencia de Ciencias Básicas para Ingeniería."
+        "bio": "Esteban Aguilera Romero, Magíster en Matemática, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Centro de Docencia de Ciencias Básicas para Ingeniería.",
+        "pista": ""
     },
     {
         "nombre": "Sergio Argomedo Cornejo",
@@ -266,7 +283,8 @@
             "BAIN083-24"
         ],
         "foto": "https://ingenieria.uach.cl/wp-content/uploads/2023/06/JAVIER_ARRIAZA.jpeg",
-        "bio": "No trabajo los fines de semana. Experto en nada y aprendiz de todo. Chileno cosecha del 78'. Viejo boomer. 16 años haciendo clases de matemáticas en distintos niveles. Me gusta hacer más cosas que solo trabajar. Soy de formación mecánico de combustión interna y automotriz, aunque nunca ejercí. Espero hacerlo algún día aunque sea como pasatiempo."
+        "bio": "No trabajo los fines de semana. Experto en nada y aprendiz de todo. Chileno cosecha del 78'. Viejo boomer. 16 años haciendo clases de matemáticas en distintos niveles. Me gusta hacer más cosas que solo trabajar. Soy de formación mecánico de combustión interna y automotriz, aunque nunca ejercí. Espero hacerlo algún día aunque sea como pasatiempo.",
+        "pista": "Catador de chelas y confidente, su instagram se transformó en una pagina de confesiones"
     },
     {
         "nombre": "Raul Cisternas Gutierrez",
@@ -294,7 +312,8 @@
             "INFO133-17"
         ],
         "foto": "https://ingenieria.uach.cl/wp-content/uploads/2023/06/LUIS_VEAS.png",
-        "bio": "Luis Veas Castillo, Doctor en Ciencias de la Ingeniería, mención Informática, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Instituto de Informática."
+        "bio": "Luis Veas Castillo, Doctor en Ciencias de la Ingeniería, mención Informática, es parte del equipo académico de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, pertenece al Instituto de Informática.",
+        "pista": ""
     },
     {
         "nombre": "Walkiria Fester",
@@ -305,6 +324,7 @@
         "egreso": "2002",
         "asignaturas": [],
         "foto": "https://media.licdn.com/dms/image/C4D03AQE26p5kZGzLFw/profile-displayphoto-shrink_800_800/0/1650853334669?e=1725494400&v=beta&t=IlakILzs8x1eKVyJubdsxL_sdvME4togROjuY9zYkyA",
-        "bio": "Luego de estar 14 años en el rubro de la informática, me di cuenta de la importancia de la comunicación y de las relaciones interpersonales en el mundo laboral. Por eso me especialicé en el área del coaching integrativo, innovación, emprendimiento y gestión en administración de empresas y pude alinear mis dos pasiones: la ingeniería y la comunicación. Esto me ha permitido ser parte de la vida de varias personas, entre ellas, de los estudiantes de la Facultad de Ingeniería en la Universidad donde trabajo. Además de muchos profesionales que he tenido la oportunidad de conocer a través de talleres, cursos y consultorías que realizo actualmente. Soy una consultora motivacional, lo que es muy gratificante, ya que los estudiantes están en esa edad dónde todo es más brillante o muy oscuro, y puedo ayudarlos a encontrar sentido a sus carreras, a su futuro, y poder proyectar el adulto que quieren ser. Además, por mi continua búsqueda de expresión, creamos con mis estudiantes, un programa radial, para potenciar las habilidades comunicativas para los futuros ingenieros e ingenieras. La verdad es que me puedo calificar como trabajólica, sino estoy haciendo clases, estoy realizando algún taller, hago columnas para un diario online, preparo alguna receta de comida saludable, hago las tareas de mi actual Magíster en inteligencia emocional y PNL, hago mi tesis de un MBA, pienso en mi futuro proyecto o grabo canciones."
+        "bio": "Luego de estar 14 años en el rubro de la informática, me di cuenta de la importancia de la comunicación y de las relaciones interpersonales en el mundo laboral. Por eso me especialicé en el área del coaching integrativo, innovación, emprendimiento y gestión en administración de empresas y pude alinear mis dos pasiones: la ingeniería y la comunicación. Esto me ha permitido ser parte de la vida de varias personas, entre ellas, de los estudiantes de la Facultad de Ingeniería en la Universidad donde trabajo. Además de muchos profesionales que he tenido la oportunidad de conocer a través de talleres, cursos y consultorías que realizo actualmente. Soy una consultora motivacional, lo que es muy gratificante, ya que los estudiantes están en esa edad dónde todo es más brillante o muy oscuro, y puedo ayudarlos a encontrar sentido a sus carreras, a su futuro, y poder proyectar el adulto que quieren ser. Además, por mi continua búsqueda de expresión, creamos con mis estudiantes, un programa radial, para potenciar las habilidades comunicativas para los futuros ingenieros e ingenieras. La verdad es que me puedo calificar como trabajólica, sino estoy haciendo clases, estoy realizando algún taller, hago columnas para un diario online, preparo alguna receta de comida saludable, hago las tareas de mi actual Magíster en inteligencia emocional y PNL, hago mi tesis de un MBA, pienso en mi futuro proyecto o grabo canciones.",
+        "pista": "Se especializa en las habilidades de comunicación y también regala cervezas en 'Configuración por Defecto'"
     }
 ]
